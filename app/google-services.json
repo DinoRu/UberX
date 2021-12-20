@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578975358301",
+    "project_id": "uberx-8636b",
+    "storage_bucket": "uberx-8636b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578975358301:android:b63b854e6711a73bb85cb4",
+        "android_client_info": {
+          "package_name": "ru.dinodev.uberx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578975358301-jdq3aehtuekne6635n6fnf94rejg97vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb6SRvdQbUDVP8Z-67M_tXCIkjC-MrTcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578975358301-jdq3aehtuekne6635n6fnf94rejg97vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
